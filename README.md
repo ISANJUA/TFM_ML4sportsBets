@@ -1,2 +1,2 @@
 # TFM_ML4sportsBets
-Trabajo de Fin de Master DS IV
+Final Project of the Kschool Master on DS 4th edition
