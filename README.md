@@ -35,7 +35,7 @@ Conclusiones y aplicación del Modelo: Capítulo 8 y 9
 3. A partir de aquí se pueden empezar a ejecutar los notebooks en cualquier orden. El notebook más pesado es el que contiene el Análisis (puntos 5, 6, 7), pudiendo llegar a tardar unos 20 minutos en ejecutarse por completo.
 
 4. Utilizar **CONTENTS** como guía del proyecto. 
-## Bugs (errores):
+### Bugs (errores):
 No hay errores conocidos en el programa
 ## Author:
 Ignacio San Juan Cisneros
