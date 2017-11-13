@@ -30,7 +30,7 @@ Conclusiones y aplicación del Modelo: Capítulo 8 y 9
 ## Technology:
 Software – `Python` (pandas, scikitlearn, Seaborn, Pyplot), `Bash`
 
-Hardware – [`Mac Book Pro Retina i5 2.6 GHz, 8GB DDR3L`]
+Hardware – [`Mac Book Pro Retina i5 2.6 GHz, 8GB DDR3L`] 
 
 ### Install:
 1. Descargar todos los archivos **Docs** y **Docs.DF.** Descomprimir `framesDCWO2`. 
