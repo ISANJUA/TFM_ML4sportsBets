@@ -15,7 +15,7 @@ Analysis: Capítulo 5, 6 y 7.
 
 Conclusiones y aplicación del Modelo: Capítulo 8 y 9
 ## Manual de usuario:
-**Docs.** Raw data. Archivos con la información deportiva de los años 2000 a 2017, uno por año. Los archivos 00-16 se utilizan en los notebooks 3-8. El archivo 17 se utiliza exclusivamente para el notebook 9.
+- `Docs.` Raw data. Archivos con la información deportiva de los años 2000 a 2017, uno por año. Los archivos 00-16 se utilizan en los notebooks 3-8. El archivo 17 se utiliza exclusivamente para el notebook 9.
 
 **Docs.DF.** Información elaborada. Se hacen distintas copias de la información en diversos puntos del proceso como backup y para poder alimentar otros notebooks, teniendo así la capacidad para dividir el trabajo en distintos apartados.
 
