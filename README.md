@@ -1,9 +1,9 @@
 # TFM_ML4sportsBets
 Final Project: Master on DS (4th ed.)
 ## Introduction:
-Sporting bets are the oldest bets known, having existed since the Ancient Greece. Since then, lots of studies who tried to predict the result of any sportive event have emerged. Nevertheless, it is not until the first decade of twenty-first century with the boom of internet, when sporting bets experienced a dramatic rise in popularity. The new technologies on data analysis have made obsolete all those old studies and have opened a door to investigate the applicability of new methods to the prediction.
-## Objective:
-Investigate the range of possibilities that Machine Learning bring to this field of study. The final aim of this project is create some models with ML and analyse its predictive ability in terms of ROI (return on investment).
+Las apuestas deportivas son las apuestas conocidas más antiguas, teniendo registro de ellas desde la Antigua Grecia. Desde ese momento han ido apareciendo muchos estudios con el objetivo de predecir el resultado de cualquier evento deportivo. Sin embargo no ha sido hasta la primera década del siglo XXI con el boom de internet cuando las apuestas deportivas han experimentado un dramático aumento de la popularidad. Las nuevas tecnologías aplicadas al procesamiento de informacin, han hecho que todos esos estudios se hayan quedado obsoletos y han abierto la puerta a la aplicación de nuevos métodos de predicción.
+## Objetivo:
+Inverstigar el amplio rango de posibilidades que nos ofrecen las técnicas de Machine Learning en este campo de estudio. El objetivo final es crear una serie de modelos de ML y analizar su capacidad predictiva haciendo un analisis detallado de sus principales parametros.
 ## Esquema de trabajo:
 Introducción: Capítulo 1
 
@@ -27,3 +27,9 @@ Conclusiones y aplicación del Modelo: Capítulo 8 y 9
 
 **CONTENTS.** Índice del trabajo, desarrollado en los notebooks.
 
+## Install:
+Descargar todos los archivos Docs y Docs.DF. Descomprimir “framesDCWO2”. 
+Descargar todos los arvhivos .py en The Story. Revisar que las rutas de acceso a los ficheros son las adecuadas (pd.read_csv). Están siempre en las primeras líneas de cada notebook. 
+A partir de aquí se pueden empezar a ejecutar los notebooks en cualquier orden. El notebook más pesado es el que contiene el Análisis (puntos 5, 6, 7), pudiendo llegar a tardar unos 20 minutos en ejecutarse por completo. 
+Utilizar CONTENTS como guía del proyecto. 
+ 
