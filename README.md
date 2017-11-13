@@ -14,3 +14,11 @@ Data Cleansing and preparation: Capítulo 3 y 4.
 Analysis: Capítulo 5, 6 y 7.
 
 Conclusiones y aplicación del Modelo: Capítulo 8 y 9
+## Manual de usuario:
+**Docs.**
+
+**Docs.DF.**
+
+**Img**
+
+**The Story.**
