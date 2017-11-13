@@ -15,22 +15,27 @@ Analysis: Capítulo 5, 6 y 7.
 
 Conclusiones y aplicación del Modelo: Capítulo 8 y 9
 ## Manual de usuario:
-- `Docs.` Raw data. Archivos con la información deportiva de los años 2000 a 2017, uno por año. Los archivos 00-16 se utilizan en los notebooks 3-8. El archivo 17 se utiliza exclusivamente para el notebook 9.
+**Docs.** Raw data. Archivos con la información deportiva de los años 2000 a 2017, uno por año. Los archivos 00-16 se utilizan en los notebooks 3-8. El archivo 17 se utiliza exclusivamente para el notebook 9.
 
 **Docs.DF.** Información elaborada. Se hacen distintas copias de la información en diversos puntos del proceso como backup y para poder alimentar otros notebooks, teniendo así la capacidad para dividir el trabajo en distintos apartados.
 
- El DF “framesDCWO2” está cargado en formato zip al superar el tamaño máximo permitido por GitHub (25MB)
+ El DF `framesDCWO2` está cargado en formato zip al superar el tamaño máximo permitido por GitHub (25MB)
 
-**Img.** Copia de todas las imágenes generadas en el proyecto en formato png.
+**Img.** Copia de todas las imágenes generadas en el proyecto en formato `png`.
 
 **The Story.** Contiene todos los notebooks en que se descompone el trabajo. Sigue el mismo orden de “Contents”.
 
 **CONTENTS.** Índice del trabajo, desarrollado en los notebooks.
 
-### Install:
-1. Descargar todos los archivos **Docs** y **Docs.DF.** Descomprimir “framesDCWO2”. 
+## Technology:
+Software – `Python` (pandas, scikitlearn, Seaborn, Pyplot), `Bash`
 
-2. Descargar todos los arvhivos .py en **The Story**. Revisar que las rutas de acceso a los ficheros son las adecuadas (pd.read_csv). Están siempre en las primeras líneas de cada notebook. 
+Hardware – [`Mac Book Pro Retina i5 2.6 GHz, 8GB DDR3L`]
+
+### Install:
+1. Descargar todos los archivos **Docs** y **Docs.DF.** Descomprimir `framesDCWO2`. 
+
+2. Descargar todos los arvhivos `.py` en **The Story**. Revisar que las rutas de acceso a los ficheros son las adecuadas (`pd.read_csv`). Están siempre en las primeras líneas de cada notebook. 
 
 3. A partir de aquí se pueden empezar a ejecutar los notebooks en cualquier orden. El notebook más pesado es el que contiene el Análisis (puntos 5, 6, 7), pudiendo llegar a tardar unos 20 minutos en ejecutarse por completo.
 
