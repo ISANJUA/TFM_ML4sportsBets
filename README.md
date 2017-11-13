@@ -21,7 +21,7 @@ Conclusiones y aplicación del Modelo: Capítulo 8 y 9
 
  El DF “framesDCWO2” está cargado en formato zip al superar el tamaño máximo permitido por GitHub (25MB)
 
-**Img** Copia de todas las imágenes generadas en el proyecto en formato png.
+**Img.** Copia de todas las imágenes generadas en el proyecto en formato png.
 
 **The Story.** Contiene todos los notebooks en que se descompone el trabajo. Sigue el mismo orden de “Contents”.
 
