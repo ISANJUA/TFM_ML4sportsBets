@@ -27,7 +27,7 @@ Conclusiones y aplicación del Modelo: Capítulo 8 y 9
 
 **CONTENTS.** Índice del trabajo, desarrollado en los notebooks.
 
-## Install:
+### Install:
 1. Descargar todos los archivos **Docs** y **Docs.DF.** Descomprimir “framesDCWO2”. 
 
 2. Descargar todos los arvhivos .py en **The Story**. Revisar que las rutas de acceso a los ficheros son las adecuadas (pd.read_csv). Están siempre en las primeras líneas de cada notebook. 
